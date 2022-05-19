@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>CATATAN yang wajib di isi adalah name dan birthdate 
+id type KP</description>
+   <name>Positif_TC_02_Fix</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b2b38e7-86ca-482f-91c2-d5b4dfe59853</testCaseGuid>
+</TestCaseEntity>

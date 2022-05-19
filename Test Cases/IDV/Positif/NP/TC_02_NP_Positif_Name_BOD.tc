@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>idtype KTP</description>
+   <name>TC_02_NP_Positif_Name_BOD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b4aa742-ca53-4ae3-b0e4-ef67dba807af</testCaseGuid>
+</TestCaseEntity>

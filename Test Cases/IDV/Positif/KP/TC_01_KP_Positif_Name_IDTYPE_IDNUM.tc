@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>idtype KTP</description>
+   <name>TC_01_KP_Positif_Name_IDTYPE_IDNUM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a939243-0dce-465d-9a31-e68ef556d8f1</testCaseGuid>
+</TestCaseEntity>

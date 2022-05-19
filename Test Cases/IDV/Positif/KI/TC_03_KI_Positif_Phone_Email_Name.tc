@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>idtype KTP</description>
+   <name>TC_03_KI_Positif_Phone_Email_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65c010b1-04a1-4be7-bba6-0b8b947a32ac</testCaseGuid>
+</TestCaseEntity>

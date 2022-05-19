@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Semua ATTR kosong</description>
+   <name>TC_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c59c4a69-97fc-43c7-aecb-55735d27a111</testCaseGuid>
+</TestCaseEntity>

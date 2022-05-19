@@ -1,0 +1,9 @@
+Tanggal Running: 2022-04-25
+===================================================================================
+{"RESPONSE":{"STATUS_CODE":400,"ERROR_CODE":"010","RESPONSE_CODE":"01","RESPONSE_MESSAGE":"Invalid Body Request","ERRORS":["IDENTITY_NUMBER tidak boleh kosong jika IdType diisi"],"DATA":null}}
+===================================================================================
+Validasi Status Code: 400
+Validasi Error Code: 010
+Validasi Message: Invalid Body Request
+Validasi Response Code: 01
+Validasi ATTRIBUTE MANDATORY: Validasi Attribut Sudah Sesuai
